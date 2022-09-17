@@ -25,7 +25,7 @@
     --fonte-android: 'android', 'cursiva'; 
 }
 body{
-    background-color: yellow;
+    background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 }
 a.externo::after{
